@@ -1,0 +1,90 @@
+body {
+  border: 3px solid rgb(235, 232, 232);
+  border-radius: 10px;
+  padding: 15px 5px 8px;
+}
+
+.container {
+  /* background-color: rgb(250, 248, 144);
+  border: 3px solid rgb(70, 69, 69);
+  border-radius: 10px; */
+  padding: 15px 5px 8px;
+}
+
+.citySummary {
+  font-size: 25px;
+}
+.cityName {
+  font-size: 50px !important;
+  margin-bottom: 0px;
+}
+.celFar {
+  position: relative;
+  top: -25px;
+  font-size: 30px;
+}
+
+.Search {
+  padding: 15px 10px;
+  border: 1px solid rgb(70, 69, 69);
+  border-radius: 10px;
+}
+
+.mainIcon {
+  width: 120px;
+  height: 120px;
+}
+
+.forecast {
+  display: block;
+  background-color: rgb(144, 246, 250);
+  border: 1px solid rgb(70, 69, 69);
+  border-radius: 8px;
+  margin: 0px auto !important;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.tempBig {
+  text-align: center;
+  font-size: 70px;
+  margin: 8px 0px 18px;
+}
+
+li {
+  list-style-type: none;
+  text-align: center;
+}
+
+.foreDay {
+  text-align: center;
+  font-size: 24px;
+}
+
+.foreTemp {
+  text-align: center;
+  font-size: 20px;
+}
+
+.foreIcon {
+  display: block;
+  margin: 0 auto;
+  width: 70px;
+  height: 70px;
+  margin-bottom: 5px;
+}
+
+.bottomText {
+  text-align: center;
+  font-size: 25px;
+  padding-left: 5px;
+}
+
+.celFarText {
+  color: #4122ec;
+}
+
+.dateText {
+  font-size: 20px;
+  margin: 0px;
+  padding: 0px;
+}
